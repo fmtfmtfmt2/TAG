@@ -54,6 +54,9 @@
 	text-align:center;
 }
 
+#home {
+	margin-left:90px;
+}
 
 .navbar > p:hover {
 	color: #dddddd;
