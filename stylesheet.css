@@ -49,13 +49,13 @@
 	display: inline-block;
 	margin-bottom: -120px;
 	padding-left: 0px;
-	margin-left: 60px;
+	margin-left: 40px;
 	margin-right:0px;
 	text-align:center;
 }
 
 #home {
-	margin-left:200px;
+	margin-left:210px;
 }
 
 .navbar > p:hover {
@@ -128,5 +128,4 @@ a:link {
 	color:#565656;
 	text-align:center;
 	position:relative;
-	margin-bottom:0px;
 }
