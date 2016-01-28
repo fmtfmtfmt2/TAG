@@ -119,6 +119,9 @@ a {
 	margin-bottom: 7px;
 }
 
+#hours {
+	margin-left:300px;
+}
 p > a:hover {
 	color:#dddddd;
 }
