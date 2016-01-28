@@ -113,6 +113,12 @@ a {
 	margin-bottom: 0px;
 }
 
+#badge {
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: -10px;
+}
+
 p > a:hover {
 	color:#dddddd;
 }
