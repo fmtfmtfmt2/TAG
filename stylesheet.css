@@ -107,6 +107,12 @@ a {
 	margin-bottom: 0px;
 }
 
+#chimp {
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 0px;
+}
+
 p > a:hover {
 	color:#dddddd;
 }
