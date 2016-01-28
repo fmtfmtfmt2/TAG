@@ -114,9 +114,9 @@ a {
 }
 
 #badge {
-	margin-top: 23px;
+	margin-top: 25px;
 	margin-right: 10px;
-	margin-bottom: 3px;
+	margin-bottom: 10px;
 }
 
 p > a:hover {
