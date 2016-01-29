@@ -120,7 +120,8 @@ a {
 }
 
 #hours {
-	margin-left:150px;
+	margin-left:50%;
+	
 }
 p > a:hover {
 	color:#dddddd;
