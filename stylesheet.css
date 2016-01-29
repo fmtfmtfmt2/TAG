@@ -123,6 +123,11 @@ a {
 	margin-left:90px;
 	
 }
+
+#rec {
+	margin-left:110px;
+	margin-bottom:20px;
+}
 p > a:hover {
 	color:#dddddd;
 }
